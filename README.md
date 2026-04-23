@@ -185,3 +185,8 @@ results = agg.run_full_pipeline(train_loader, val_loader, train_ds, val_ds)
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+
+**phase 1 :** https://drive.google.com/file/d/1IkMkUIg3DHHX-_kNsRdSTPlbgPFOIIsk/view?usp=sharing
+
+**phase 2 :** https://drive.google.com/drive/folders/1vOtH59ZdMRQsnWAFoRiP0MuiF2SfaZdJ
